@@ -1,5 +1,5 @@
 # Contemporary Software Development
-## Week 2 Practical: Introduction to GitHub
+## Week 3 Practical: Introduction to GitHub
 
 This repository is your playground for learning how to interact and manage remote repositories on GitHub and more importantly, collaborate with other developers in a remote repository. 
 <br>
