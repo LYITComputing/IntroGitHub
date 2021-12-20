@@ -9,7 +9,7 @@ This repository is your playground for learning how to interact and manage remot
 
 ### __1. Initial setup__
 
-After cloning the repository, the repo manager must enable GitHub pages and invite other collaborators.  
+After the forking the repository, the repository manager must enable GitHub pages and invite the other members of the team as collaborators.  
 
 1. Go to the repository settings and enable GitHub Pages:
    1. Scroll down to the "GitHub pages" section.
