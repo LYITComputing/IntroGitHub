@@ -18,6 +18,7 @@ After the forking the repository, the repository manager must enable GitHub page
 2. Invite the other teams members to collaborate on the project:
    1. Go to the repository settings and select __manage access__.
    2. Click on the __invite a collaborator__ button and invite your team members.
+   3. Once you have invited some team members into the repository they need to accept the invitations. To do so they should go to their notifications page <https://github.com/notifications>  
 
 </br>
 
